@@ -1,0 +1,1 @@
+{u'session': {u'new': False, u'sessionId': u'session1234', u'application': {u'applicationId': u'amzn1.echo-sdk-ams.app.[unique-value-here]'}, u'user': {u'userId': None}, u'attributes': {}}, u'request': {u'type': u'IntentRequest', u'intent': {u'slots': {u'Word': {u'name': u'Word', u'value': u'golden gerbil'}}, u'name': u'Urban'}, u'requestId': u'request5678'}, u'version': u'1.0'}
